@@ -1,0 +1,79 @@
+Meeting Title: Q3 Product Roadmap Review
+Date: May 14, 2026
+Time: 10:00 AM – 11:00 AM
+Attendees:
+
+Sarah Chen (Product Manager)
+David Kumar (Engineering Lead)
+Priya Mehta (Marketing Director)
+Alex Rivera (Customer Success)
+Jordan Lee (CEO)
+Transcript
+
+10:00 AM — Sarah:
+Thanks, everyone. Goal today is to finalize priorities for Q3 and resolve the disagreement around the analytics dashboard timeline.
+
+10:01 AM — Jordan:
+We need clarity on whether the dashboard ships in July or slips to August. Sales is already referencing it in enterprise conversations.
+
+10:03 AM — David:
+Current estimate is mid-August if we include custom reporting. July is only realistic if we reduce scope.
+
+10:04 AM — Priya:
+Marketing already planned campaigns around the July launch. Delaying impacts webinar scheduling and paid acquisition timing.
+
+10:05 AM — Sarah:
+Let’s separate “must-have” from “nice-to-have.” David, what features are causing the delay?
+
+10:06 AM — David:
+Custom export formats, role-based permissions, and real-time sync. Those are the biggest engineering risks.
+
+10:08 AM — Alex:
+From customer feedback, role-based permissions matter a lot more than export formats.
+
+10:09 AM — Jordan:
+So if exports move to Q4, can July happen?
+
+10:10 AM — David:
+Tentatively yes, assuming no major backend issues.
+
+10:11 AM — Sarah:
+Okay. Proposed plan:
+
+Ship core dashboard in July
+Include permissions support
+Push advanced exports to Q4
+Reassess real-time sync after beta feedback
+
+10:13 AM — Priya:
+That works for marketing as long as positioning is clear. We shouldn’t advertise functionality that isn’t ready.
+
+10:14 AM — Jordan:
+Agreed. No overpromising.
+
+10:16 AM — Alex:
+I’d also recommend adding five beta customers before general release.
+
+10:17 AM — Sarah:
+Good call. Alex, can your team identify candidates by next Friday?
+
+10:17 AM — Alex:
+Yes.
+
+10:19 AM — David:
+One more thing: engineering needs final UI approval this week or timelines slip again.
+
+10:20 AM — Sarah:
+Design review is tomorrow afternoon. I’ll make sure approvals are locked immediately after.
+
+10:22 AM — Jordan:
+Any blockers not discussed yet?
+
+10:23 AM — Priya:
+Only concern is onboarding documentation. We’ll need finalized screenshots at least two weeks before launch.
+
+10:24 AM — David:
+That’s doable if UI freezes by Monday.
+
+10:26 AM — Sarah:
+Sounds aligned then.
